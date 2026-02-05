@@ -14,3 +14,4 @@ public class CaesarCipher {
     }
 }
         
+        for (char c : text.toCharArray()) {
